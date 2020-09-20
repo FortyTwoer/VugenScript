@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\1οκ\Desktop\Scripts\UC_3_CancelTickets
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\1οκ\desktop\scripts\uc_3_canceltickets\\logfile.log
+c:\users\1οκ\desktop\scripts\uc_3_canceltickets\\combined_CheckTicketsVugenScript.c
+c:\users\1οκ\desktop\scripts\uc_3_canceltickets\\pre_cci.c
